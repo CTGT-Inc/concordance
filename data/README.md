@@ -1,5 +1,5 @@
 ---
-license: TODO  # owner to choose before publishing
+license: apache-2.0
 pretty_name: Concordance ingestion determinism stage tables
 task_categories:
   - other
@@ -115,9 +115,9 @@ Headline values:
 - **Deployment differs from the benchmark.** Production ran with the radix
   cache on. The inference benchmark in `inference/` ran with it off.
 - **Document provenance.** The test document is a synthetic retail-banking
-  operations manual supplied by a third party for evaluation. It is not
+  operations manual used for evaluation. It is not
   included, and none of its text is quoted here.
 
 ## License
 
-TODO. The owner chooses before publishing.
+Apache License 2.0. See `LICENSE` at the repository root.

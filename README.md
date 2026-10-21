@@ -56,3 +56,7 @@ aliased ids, then runs `compare_runs.py` on each set and prints both reports.
 The engine that produced the production numbers is not part of this package.
 Neither are its prompts or the captured calls from the sweep. The toy
 pipeline reproduces the mechanism, not the production pipeline.
+
+## License
+
+Apache License 2.0. See [LICENSE](LICENSE).
