@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+toy_pipeline/out/
+inference/reports/_scratch/
+.DS_Store

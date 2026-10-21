@@ -1,0 +1,36 @@
+run_id,stage,output_hash,output_hash_unmasked,item_count,item_kind,model_calls,violations,notes
+after_run_1,parse,,220b75da,112,parse_nodes,0,0,5 assets; 9 pages; 17780 text chars
+after_run_1,label,f65464f7,4addf827,112,node_labels,23,12,"label 11, declaration 4, reference 8 calls"
+after_run_1,interpret,,6edb9fc1,112,annotations,7,11,"role normative 49, context 38"
+after_run_1,unitize,c1a3ab07,ac55da7e,34,rule_units,12,4,
+after_run_1,extract,72944399,048dce29,34,obligations,49,7,"extraction 47, tagging 2 calls; 48 source segments"
+after_run_1,identity,82a3693a,1b997372,34,obligations,0,n/a,7 definitions; 45 source segments; 383 relationships
+after_run_1,committed_result,8f828e73,a596a51e,34,obligations,91,34,total over all stages; runtime 523 s
+after_run_2,parse,,220b75da,112,parse_nodes,0,0,5 assets; 9 pages; 17780 text chars
+after_run_2,label,f65464f7,78a9bd99,112,node_labels,23,12,"label 11, declaration 4, reference 8 calls"
+after_run_2,interpret,,6edb9fc1,112,annotations,7,11,"role normative 49, context 38"
+after_run_2,unitize,c1a3ab07,a3f34e78,34,rule_units,12,4,
+after_run_2,extract,72944399,d050a091,34,obligations,49,7,"extraction 47, tagging 2 calls; 48 source segments"
+after_run_2,identity,82a3693a,67a1c14a,34,obligations,0,n/a,7 definitions; 45 source segments; 383 relationships
+after_run_2,committed_result,8f828e73,4a24354b,34,obligations,91,34,total over all stages; runtime 602 s
+after_run_3,parse,,220b75da,112,parse_nodes,0,0,5 assets; 9 pages; 17780 text chars
+after_run_3,label,f65464f7,2b6679a1,112,node_labels,23,12,"label 11, declaration 4, reference 8 calls"
+after_run_3,interpret,,6edb9fc1,112,annotations,7,11,"role normative 49, context 38"
+after_run_3,unitize,c1a3ab07,eef361e2,34,rule_units,12,4,
+after_run_3,extract,72944399,86a769f9,34,obligations,49,7,"extraction 47, tagging 2 calls; 48 source segments"
+after_run_3,identity,82a3693a,b5b7788c,34,obligations,0,n/a,7 definitions; 45 source segments; 383 relationships
+after_run_3,committed_result,8f828e73,63b20741,34,obligations,91,34,total over all stages; runtime 632 s
+after_run_4,parse,,220b75da,112,parse_nodes,0,0,5 assets; 9 pages; 17780 text chars
+after_run_4,label,f65464f7,6abc2f16,112,node_labels,23,12,"label 11, declaration 4, reference 8 calls"
+after_run_4,interpret,,6edb9fc1,112,annotations,7,11,"role normative 49, context 38"
+after_run_4,unitize,c1a3ab07,2dc07b58,34,rule_units,12,4,
+after_run_4,extract,72944399,b7359506,34,obligations,49,7,"extraction 47, tagging 2 calls; 48 source segments"
+after_run_4,identity,82a3693a,12ea7ab0,34,obligations,0,n/a,7 definitions; 45 source segments; 383 relationships
+after_run_4,committed_result,8f828e73,b1086aaa,34,obligations,91,34,total over all stages; runtime 642 s
+after_run_5,parse,,220b75da,112,parse_nodes,0,0,5 assets; 9 pages; 17780 text chars
+after_run_5,label,f65464f7,29eee94a,112,node_labels,23,12,"label 11, declaration 4, reference 8 calls"
+after_run_5,interpret,,6edb9fc1,112,annotations,7,11,"role normative 49, context 38"
+after_run_5,unitize,c1a3ab07,984eb415,34,rule_units,12,4,
+after_run_5,extract,72944399,a8a70e48,34,obligations,49,7,"extraction 47, tagging 2 calls; 48 source segments"
+after_run_5,identity,82a3693a,e593428c,34,obligations,0,n/a,7 definitions; 45 source segments; 383 relationships
+after_run_5,committed_result,8f828e73,19151900,34,obligations,91,34,total over all stages; runtime 742 s

@@ -1,0 +1,29 @@
+{
+  "sections": [
+    {
+      "section_id": "91d7c2e45fa0b318",
+      "title": "Working hours",
+      "rules": [
+        "Core hours are 10:00 to 15:00.",
+        "Staff record leave in the shared calendar."
+      ]
+    },
+    {
+      "section_id": "0b6f3a8de21c9754",
+      "title": "Meeting rooms",
+      "rules": [
+        "Book rooms in the shared calendar.",
+        "Release a booking if plans change.",
+        "Rooms seat at most eight people."
+      ]
+    },
+    {
+      "section_id": "4c85e0d7b3a16f29",
+      "title": "Kitchen",
+      "rules": [
+        "Label food with your name and the date.",
+        "The fridge is cleared every Friday."
+      ]
+    }
+  ]
+}

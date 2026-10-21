@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "section": "Working hours",
+      "rule": "Core hours are 10:00 to 15:00."
+    },
+    {
+      "section": "Working hours",
+      "rule": "Staff record leave in the shared calendar."
+    },
+    {
+      "section": "Meeting rooms",
+      "rule": "Book rooms in the shared calendar."
+    },
+    {
+      "section": "Meeting rooms",
+      "rule": "Release a booking if plans change."
+    },
+    {
+      "section": "Kitchen",
+      "rule": "Label food with your name and the date."
+    },
+    {
+      "section": "Kitchen",
+      "rule": "The fridge is cleared every Friday."
+    }
+  ]
+}

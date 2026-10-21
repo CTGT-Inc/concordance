@@ -1,0 +1,15 @@
+phase,module,calls,identical_requests_repeated_across_runs,output_changed
+before_fix,label,41,7,0
+before_fix,declaration,19,2,0
+before_fix,reference,32,6,0
+before_fix,interpretation,28,5,0
+before_fix,unitsplit,47,12,0
+before_fix,extraction,197,42,0
+before_fix,tagging,5,0,n/a
+after_fix,label,55,9,0
+after_fix,declaration,20,4,0
+after_fix,reference,40,8,0
+after_fix,interpretation,35,7,0
+after_fix,unitsplit,60,12,0
+after_fix,extraction,235,47,0
+after_fix,tagging,10,2,0

@@ -1,0 +1,10 @@
+run_id,phase,included,committed_obligations,result_hash,result_hash_unmasked,validation_violations,graph_relationships,model_calls,runtime_seconds,identical_repeated_requests_across_runs,repeated_requests_output_changed,notes
+before_run_2,before_fix,yes,32,,50113b9d,42,433,95,532,74,0,Set-level counts (runs 2-5) repeated on each row. Identical means the full request body is byte-equal; no masking. Per-module breakdown in repeated_requests_by_module.csv sums to 74.
+before_run_3,before_fix,yes,31,,3b4cb8b7,36,418,91,581,74,0,Set-level counts (runs 2-5) repeated on each row. Identical means the full request body is byte-equal; no masking. Per-module breakdown in repeated_requests_by_module.csv sums to 74.
+before_run_4,before_fix,yes,33,,beb46f2d,33,427,92,561,74,0,Set-level counts (runs 2-5) repeated on each row. Identical means the full request body is byte-equal; no masking. Per-module breakdown in repeated_requests_by_module.csv sums to 74.
+before_run_5,before_fix,yes,33,,824b4cff,39,433,91,551,74,0,Set-level counts (runs 2-5) repeated on each row. Identical means the full request body is byte-equal; no masking. Per-module breakdown in repeated_requests_by_module.csv sums to 74.
+after_run_1,after_fix,yes,34,8f828e73,a596a51e,34,383,91,523,89,0,Set-level counts (runs 1-5) repeated on each row.
+after_run_2,after_fix,yes,34,8f828e73,4a24354b,34,383,91,602,89,0,Set-level counts (runs 1-5) repeated on each row.
+after_run_3,after_fix,yes,34,8f828e73,63b20741,34,383,91,632,89,0,Set-level counts (runs 1-5) repeated on each row.
+after_run_4,after_fix,yes,34,8f828e73,b1086aaa,34,383,91,642,89,0,Set-level counts (runs 1-5) repeated on each row.
+after_run_5,after_fix,yes,34,8f828e73,19151900,34,383,91,742,89,0,Set-level counts (runs 1-5) repeated on each row.

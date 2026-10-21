@@ -1,0 +1,16 @@
+{
+  "sections": [
+    {
+      "key": "working-hours",
+      "title": "Working hours"
+    },
+    {
+      "key": "meeting-rooms",
+      "title": "Meeting rooms"
+    },
+    {
+      "key": "kitchen",
+      "title": "Kitchen"
+    }
+  ]
+}
